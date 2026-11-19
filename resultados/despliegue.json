@@ -1,5 +1,12 @@
 {
   "repositorio": "https://github.com/javieraugustorodriguez89-sudo/cafe-calidad-crispdm",
   "url": null,
-  "estado": "Acceso a Streamlit Community Cloud pendiente de inicio de sesión"
+  "estado": "Aplicación construida y probada. Pendiente autorización adicional de GitHub para Streamlit.",
+  "permisos_solicitados": [
+    "Repositorios públicos",
+    "Administración de webhooks",
+    "Gestión de Codespaces",
+    "Lectura de organizaciones",
+    "Lectura de correos"
+  ]
 }
