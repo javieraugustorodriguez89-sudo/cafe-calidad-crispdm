@@ -1,0 +1,6 @@
+altitud_m,humedad_fraccion,defectos_primarios,defectos_secundarios,numero_sacos,peso_saco_kg,anio_cosecha,pais,variedad,beneficio,color,puntaje_estimado,tipo_dato
+1600,0.11,0,2,50,60,2026,Colombia,Caturra,Washed / Wet,Green,83.20300651253149,Escenario hipotético sin catación de referencia
+1800,0.12,0,1,30,60,2026,Colombia,Bourbon,Washed / Wet,Green,82.54657154540934,Escenario hipotético sin catación de referencia
+1200,0.11,1,8,100,60,2026,Brazil,Mundo Novo,Natural / Dry,Green,82.87282685924875,Escenario hipotético sin catación de referencia
+1500,0.1,0,3,40,69,2026,Guatemala,Bourbon,Washed / Wet,Bluish-Green,82.38188171531907,Escenario hipotético sin catación de referencia
+1700,0.12,0,4,25,69,2026,Costa Rica,Catuai,Pulped natural / honey,Green,82.78839633942272,Escenario hipotético sin catación de referencia

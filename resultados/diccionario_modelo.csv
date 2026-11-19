@@ -1,0 +1,13 @@
+variable,origen,tipo,unidad,regla
+altitud_m,altitude_mean_meters,Numérica,m,0 a 6000; fuera de rango se imputa
+humedad_fraccion,Moisture,Numérica,Fracción,Mayor que 0 y hasta 1; cero no se interpreta como café sin agua
+defectos_primarios,Category.One.Defects,Entera,Conteo,Entero mayor o igual a 0
+defectos_secundarios,Category.Two.Defects,Entera,Conteo,Entero mayor o igual a 0
+numero_sacos,Number.of.Bags,Entera,Sacos,Entero mayor o igual a 1
+peso_saco_kg,Bag.Weight,Numérica,kg,Mayor que 0 y hasta 2000; unidad explícita
+anio_cosecha,Harvest.Year,Entera,Año,1900 a 2026; primer año de una campaña
+pais,Country.of.Origin,Categórica,No aplica,Nombre no vacío; normalizar espacios
+variedad,Variety,Categórica,No aplica,Nombre no vacío; conservar Other como categoría
+beneficio,Processing.Method,Categórica,No aplica,"Lavado, natural, honey, semilavado u Other según etiqueta original"
+color,Color,Categórica,No aplica,"Green, Blue-Green o Bluish-Green"
+puntaje_taza,Total.Cup.Points,Numérica objetivo,Puntos,Escala 0 a 100; revisar cataciones totalmente en cero

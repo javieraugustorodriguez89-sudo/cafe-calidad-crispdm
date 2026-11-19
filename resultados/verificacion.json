@@ -1,0 +1,7 @@
+{
+  "persistencia_max_diferencia": 0.0,
+  "individual_igual_lote": true,
+  "casos_invalidos_rechazados": 4,
+  "objetivo_fuera_entradas": true,
+  "fraccion_prueba_admitida_por_completitud_app": 0.8823529411764706
+}

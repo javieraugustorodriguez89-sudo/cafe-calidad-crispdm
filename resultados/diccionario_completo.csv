@@ -1,0 +1,44 @@
+variable_original,definicion,tipo,unidad,uso,nulos_originales
+Species,Especie de café declarada,Texto o categoría,No aplica,Excluir,0
+Owner,Nombre del propietario registrado,Texto o categoría,No aplica,Solo agrupación,7
+Country.of.Origin,País de origen del lote,Texto o categoría,No aplica,Entrada,1
+Farm.Name,Nombre de la finca,Texto o categoría,No aplica,Solo agrupación,356
+Lot.Number,Identificador del lote,Texto o categoría,No aplica,Excluir,1041
+Mill,Beneficiadero o instalación de procesamiento,Texto o categoría,No aplica,Excluir,310
+ICO.Number,Identificador comercial ICO reportado,Texto o categoría,No aplica,Excluir,148
+Company,Empresa registrada,Texto o categoría,No aplica,Excluir,209
+Altitude,Altitud original en texto y unidad reportada,Texto o categoría,Unidad declarada,Excluir,223
+Region,Región de procedencia,Texto o categoría,No aplica,Excluir,57
+Producer,Nombre del productor registrado,Texto o categoría,No aplica,Excluir,230
+Number.of.Bags,Número de sacos del lote,Numérica,Conteo,Entrada,0
+Bag.Weight,Peso declarado por saco con su unidad,Texto o categoría,Unidad declarada,Entrada,0
+In.Country.Partner,Entidad colaboradora en el país,Texto o categoría,No aplica,Excluir,0
+Harvest.Year,Año o campaña de cosecha declarada,Texto o categoría,No aplica,Entrada,47
+Grading.Date,Fecha de evaluación de la muestra,Texto o categoría,No aplica,Excluir,0
+Owner.1,Nombre normalizado del propietario,Texto o categoría,No aplica,Solo agrupación,7
+Variety,Variedad declarada del café,Texto o categoría,No aplica,Entrada,201
+Processing.Method,Método de beneficio o procesamiento,Texto o categoría,No aplica,Entrada,152
+Aroma,Puntuación sensorial de aroma,Numérica,Puntos,Excluir componente del objetivo,0
+Flavor,Puntuación sensorial de sabor,Numérica,Puntos,Excluir componente del objetivo,0
+Aftertaste,Puntuación sensorial de sabor residual,Numérica,Puntos,Excluir componente del objetivo,0
+Acidity,Puntuación sensorial de acidez,Numérica,Puntos,Excluir componente del objetivo,0
+Body,Puntuación sensorial de cuerpo,Numérica,Puntos,Excluir componente del objetivo,0
+Balance,Puntuación sensorial de balance,Numérica,Puntos,Excluir componente del objetivo,0
+Uniformity,Puntuación sensorial de uniformidad,Numérica,Puntos,Excluir componente del objetivo,0
+Clean.Cup,Puntuación sensorial de limpieza de taza,Numérica,Puntos,Excluir componente del objetivo,0
+Sweetness,Puntuación sensorial de dulzor,Numérica,Puntos,Excluir componente del objetivo,0
+Cupper.Points,Valoración global del catador,Numérica,Puntos,Excluir componente del objetivo,0
+Total.Cup.Points,Puntuación total de taza,Numérica,Puntos,Objetivo,0
+Moisture,Humedad registrada como fracción,Numérica,Fracción,Entrada,0
+Category.One.Defects,Conteo de defectos de categoría uno,Numérica,Conteo,Entrada,0
+Quakers,Conteo reportado de granos quakers,Numérica,Conteo,Excluir,1
+Color,Color declarado del grano verde,Texto o categoría,No aplica,Entrada,267
+Category.Two.Defects,Conteo de defectos de categoría dos,Numérica,Conteo,Entrada,0
+Expiration,Fecha de vencimiento de la evaluación o certificado,Texto o categoría,No aplica,Excluir,0
+Certification.Body,Organismo certificador,Texto o categoría,No aplica,Excluir,0
+Certification.Address,Dirección del organismo certificador,Texto o categoría,No aplica,Excluir,0
+Certification.Contact,Contacto del organismo certificador,Texto o categoría,No aplica,Excluir,0
+unit_of_measurement,Unidad original de altitud,Texto o categoría,No aplica,Excluir,0
+altitude_low_meters,Altitud inferior convertida a metros,Numérica,m,Excluir,227
+altitude_high_meters,Altitud superior convertida a metros,Numérica,m,Excluir,227
+altitude_mean_meters,Altitud media convertida a metros,Numérica,m,Entrada,227

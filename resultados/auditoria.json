@@ -1,0 +1,29 @@
+{
+  "filas_originales": 1311,
+  "columnas_sin_indice": 43,
+  "cataciones_cero_excluidas": 1,
+  "objetivos_invalidos": 0,
+  "duplicados_excluidos": 0,
+  "filas_preparadas": 1310,
+  "nulos_entrada": {
+    "altitud_m": 231,
+    "humedad_fraccion": 252,
+    "defectos_primarios": 0,
+    "defectos_secundarios": 0,
+    "numero_sacos": 1,
+    "peso_saco_kg": 43,
+    "anio_cosecha": 64,
+    "pais": 1,
+    "variedad": 201,
+    "beneficio": 151,
+    "color": 267
+  },
+  "grupos": 355,
+  "sha256_original": "f99e588fcdd564e43a779a4b0f3870760018b1ffec7eab7f43db7bedf8f6d670",
+  "n_desarrollo": 919,
+  "n_prueba": 391,
+  "fraccion_desarrollo": 0.7015267175572519,
+  "grupos_desarrollo": 248,
+  "grupos_prueba": 107,
+  "grupos_compartidos": 0
+}

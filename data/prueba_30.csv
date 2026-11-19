@@ -1,0 +1,392 @@
+altitud_m,humedad_fraccion,defectos_primarios,defectos_secundarios,numero_sacos,peso_saco_kg,anio_cosecha,pais,variedad,beneficio,color,puntaje_taza,id_muestra,grupo
+1700.0,,0.0,0.0,5.0,,,Guatemala,Bourbon,,,89.75,3,G0098
+2000.0,0.11,0.0,2.0,320.0,60.0,2014.0,Ethiopia,,Natural / Dry,Green,89.0,4,G0091
+1635.0,0.03,0.0,0.0,300.0,60.0,2010.0,Ethiopia,,,,88.67,8,G0078
+1635.0,0.03,0.0,0.0,300.0,60.0,2010.0,Ethiopia,,,,88.42,9,G0078
+1905.0,0.1,0.0,1.0,300.0,60.0,2014.0,Ethiopia,,Natural / Dry,,88.08,11,G0086
+609.6,,0.0,2.0,1.0,,2009.0,United States (Hawaii),,,,87.92,14,G0346
+1635.0,0.05,0.0,2.0,300.0,60.0,2010.0,Ethiopia,,,,87.83,15,G0078
+,0.05,0.0,2.0,150.0,,2009.0,Ethiopia,,,,87.33,18,G0078
+1450.0,0.1,0.0,0.0,3.0,60.0,2015.0,China,Catimor,Washed / Wet,Green,87.25,19,G0024
+1850.0,,0.0,8.0,250.0,60.0,2014.0,Ethiopia,Ethiopian Yirgacheffe,Natural / Dry,,87.25,20,G0077
+1300.0,0.11,0.0,2.0,250.0,1.36077711,2014.0,Costa Rica,Caturra,Washed / Wet,Green,87.17,22,G0060
+,0.05,0.0,2.0,150.0,,2009.0,Ethiopia,,,,86.92,27,G0078
+1950.0,0.12,0.0,1.0,100.0,60.0,2013.0,Uganda,SL14,Washed / Wet,Green,86.83,28,G0337
+,,1.0,4.0,10.0,45.359237,2012.0,United States (Hawaii),Hawaiian Kona,Natural / Dry,,86.25,37,G0347
+,,2.0,1.0,25.0,45.359237,2010.0,United States (Hawaii),,,,86.25,38,G0347
+,0.1,0.0,2.0,300.0,,2009.0,Ethiopia,,,,86.25,39,G0078
+1300.0,0.1,1.0,9.0,53.0,1.0,2012.0,Thailand,Caturra,Washed / Wet,Green,86.17,41,G0329
+1754.0,0.11,0.0,2.0,12.0,60.0,2014.0,Kenya,SL28,Natural / Dry,Bluish-Green,86.08,45,G0137
+1860.0,0.11,0.0,1.0,1.0,1.0,2013.0,Kenya,SL28,Washed / Wet,Green,86.0,49,G0139
+1750.0,0.01,0.0,4.0,300.0,,2009.0,Ethiopia,,,,86.0,51,G0078
+426.72,,0.0,0.0,1.0,,2009.0,United States (Hawaii),,,,86.0,52,G0346
+1650.0,0.12,0.0,0.0,1.0,60.0,2013.0,Uganda,SL14,Natural / Dry,Green,85.92,54,G0338
+1900.0,0.1,0.0,4.0,320.0,60.0,2014.0,Ethiopia,,Washed / Wet,Green,85.83,57,G0080
+,,0.0,1.0,8.0,45.359237,2012.0,United States (Hawaii),Hawaiian Kona,Natural / Dry,,85.58,65,G0347
+1900.0,0.1,0.0,3.0,16.0,60.0,2014.0,Kenya,SL28,Natural / Dry,Green,85.5,67,G0134
+,,4.0,6.0,8.0,45.359237,2012.0,United States (Hawaii),Hawaiian Kona,Natural / Dry,,85.42,73,G0347
+1700.0,0.1,0.0,0.0,3.0,60.0,2015.0,China,Catimor,Natural / Dry,Green,85.33,76,G0024
+1300.0,,0.0,0.0,250.0,1.36077711,2014.0,Costa Rica,Caturra,Washed / Wet,Bluish-Green,85.33,78,G0060
+1300.0,0.1,0.0,2.0,250.0,1.36077711,2014.0,Costa Rica,Caturra,Washed / Wet,Bluish-Green,85.33,79,G0060
+1200.0,,0.0,6.0,300.0,60.0,2012.0,Kenya,SL34,Washed / Wet,Green,85.33,81,G0135
+,0.05,0.0,2.0,360.0,6.0,2009.0,Ethiopia,,,,85.33,82,G0078
+,0.1,0.0,3.0,300.0,,2009.0,Ethiopia,Typica,,,85.33,83,G0078
+,0.11,2.0,2.0,12.0,45.359237,2014.0,United States (Hawaii),Hawaiian Kona,Natural / Dry,Bluish-Green,85.08,92,G0345
+,0.01,1.0,7.0,13.0,45.359237,2010.0,United States (Hawaii),,,,85.08,94,G0347
+,,0.0,5.0,360.0,,2010.0,Ethiopia,,,,85.08,95,G0078
+,,0.0,0.0,27.0,,,United States (Hawaii),,,,85.08,96,G0347
+,,0.0,3.0,135.0,70.0,2016.0,Colombia,Caturra,Washed / Wet,Green,85.0,98,G0040
+1400.0,,0.0,0.0,1.0,1.0,2010.0,Mexico,Pacamara,,,85.0,104,G0259
+,,0.0,1.0,15.0,45.359237,,United States (Hawaii),,,,85.0,105,G0347
+,,1.0,2.0,243.0,70.0,2016.0,Colombia,Caturra,Washed / Wet,,84.92,107,G0040
+1775.0,0.12,0.0,1.0,252.0,70.0,2015.0,Colombia,Caturra,Washed / Wet,Green,84.92,108,G0040
+1775.0,0.11,0.0,3.0,50.0,70.0,2012.0,Colombia,Caturra,Washed / Wet,Green,84.92,111,G0040
+1650.0,0.12,0.0,1.0,1.0,60.0,2013.0,Uganda,SL14,Natural / Dry,Green,84.83,117,G0338
+,,3.0,15.0,14.0,45.359237,2012.0,United States (Hawaii),Hawaiian Kona,Natural / Dry,,84.83,118,G0347
+1750.0,0.1,0.0,2.0,300.0,,2009.0,Ethiopia,,,,84.83,119,G0078
+1750.0,0.1,0.0,4.0,300.0,,2009.0,Ethiopia,,,,84.83,120,G0087
+925.0,0.18,0.0,2.0,2.0,,2009.0,Nicaragua,,,,84.75,125,G0275
+1200.0,0.12,0.0,7.0,2.0,1.0,2016.0,Indonesia,Java,Washed / Wet,Green,84.67,127,G0127
+1900.0,0.1,0.0,3.0,250.0,30.0,2014.0,Ethiopia,Ethiopian Yirgacheffe,Washed / Wet,,84.67,132,G0077
+1750.0,0.2,0.0,3.0,300.0,,2009.0,Ethiopia,,,,84.67,144,G0078
+1754.0,0.11,0.0,5.0,66.0,60.0,,Kenya,SL34,Washed / Wet,Blue-Green,84.58,145,G0137
+1500.0,,0.0,4.0,250.0,70.0,2016.0,Colombia,Other,Washed / Wet,Blue-Green,84.58,146,G0040
+,,0.0,5.0,125.0,70.0,2016.0,Colombia,Caturra,Washed / Wet,Green,84.58,147,G0040
+1750.0,,0.0,5.0,75.0,70.0,2013.0,Colombia,Caturra,Washed / Wet,,84.58,152,G0040
+1750.0,0.11,0.0,1.0,200.0,,2016.0,Uganda,SL14,Washed / Wet,Green,84.5,160,G0335
+1680.0,0.1,0.0,1.0,3.0,60.0,2015.0,China,Catimor,Washed / Wet,Green,84.5,161,G0024
+1800.0,0.12,1.0,0.0,275.0,2.0,2015.0,Colombia,Other,Washed / Wet,Green,84.5,163,G0034
+1100.0,,0.0,2.0,1.0,2.0,2013.0,China,Other,Washed / Wet,Green,84.5,164,G0022
+,,0.0,4.0,27.0,60.0,,Brazil,,,,84.5,170,G0006
+1400.0,,0.0,3.0,200.0,30.0,2017.0,Indonesia,Mandheling,Other,Blue-Green,84.42,173,G0120
+1775.0,,0.0,3.0,275.0,70.0,2014.0,Colombia,Caturra,Washed / Wet,Green,84.42,175,G0040
+1200.0,0.11,0.0,0.0,2.0,2.0,2012.0,Taiwan,Typica,Washed / Wet,Blue-Green,84.42,176,G0295
+,0.11,0.0,1.0,5.0,45.359237,2012.0,United States (Hawaii),Hawaiian Kona,Natural / Dry,Blue-Green,84.42,177,G0347
+900.0,0.12,2.0,4.0,69.0,1.0,2012.0,Mexico,Pacamara,Washed / Wet,,84.42,178,G0220
+,0.2,0.0,2.0,360.0,6.0,2009.0,Ethiopia,,,,84.42,179,G0078
+,,0.0,4.0,275.0,70.0,2016.0,Colombia,,,,84.33,184,G0040
+1700.0,0.12,0.0,1.0,100.0,80.0,2012.0,Mexico,Typica,Washed / Wet,Blue-Green,84.33,187,G0256
+1400.0,0.1,0.0,1.0,3.0,60.0,2015.0,China,Catimor,Natural / Dry,Green,84.25,197,G0024
+1775.0,0.11,0.0,3.0,275.0,70.0,2015.0,Colombia,Caturra,Washed / Wet,Green,84.25,198,G0040
+1775.0,0.12,4.0,2.0,248.0,70.0,2015.0,Colombia,Caturra,Washed / Wet,Green,84.25,199,G0040
+1800.0,0.12,0.0,0.0,275.0,2.0,2015.0,Colombia,Other,Washed / Wet,Green,84.25,200,G0034
+,0.11,1.0,1.0,7.0,45.359237,2012.0,United States (Hawaii),Hawaiian Kona,Natural / Dry,Bluish-Green,84.25,206,G0347
+,,0.0,2.0,250.0,70.0,2016.0,Colombia,Caturra,Washed / Wet,Green,84.17,212,G0040
+1700.0,0.09,0.0,2.0,150.0,69.0,2016.0,Costa Rica,Caturra,Washed / Wet,Bluish-Green,84.17,213,G0062
+1775.0,,0.0,0.0,275.0,70.0,2015.0,Colombia,Caturra,Washed / Wet,Bluish-Green,84.17,217,G0040
+1150.0,,0.0,16.0,305.0,59.0,2015.0,Brazil,Catuai,Natural / Dry,,84.17,219,G0005
+1400.0,0.13,0.0,0.0,10.0,60.0,2014.0,"Tanzania, United Republic Of",Other,Washed / Wet,Green,84.17,222,G0319
+1775.0,,0.0,2.0,200.0,70.0,2014.0,Colombia,Caturra,Washed / Wet,,84.08,236,G0040
+,0.11,1.0,9.0,14.0,45.359237,2012.0,United States (Hawaii),Hawaiian Kona,Natural / Dry,Green,84.08,238,G0347
+1480.0,0.11,1.0,10.0,300.0,1.0,2012.0,Mexico,Typica,Washed / Wet,Green,84.08,239,G0153
+1775.0,0.12,0.0,3.0,138.0,70.0,2014.0,Colombia,Caturra,Washed / Wet,Green,84.0,250,G0040
+1200.0,,0.0,2.0,300.0,60.0,2012.0,Kenya,SL34,Washed / Wet,Green,84.0,254,G0135
+,0.12,0.0,0.0,2.0,1.0,2012.0,Thailand,Other,Washed / Wet,Green,84.0,255,G0328
+,0.06,0.0,0.0,1.0,60.0,2011.0,Thailand,,,,84.0,258,G0328
+,,1.0,5.0,226.0,70.0,2016.0,Colombia,,,,83.92,265,G0026
+,,0.0,0.0,275.0,2.0,2015.0,Colombia,,Washed / Wet,,83.92,267,G0034
+,,1.0,1.0,275.0,2.0,2014.0,Colombia,,Washed / Wet,,83.92,268,G0034
+1775.0,,0.0,1.0,275.0,70.0,2014.0,Colombia,Caturra,Washed / Wet,Green,83.92,269,G0040
+900.0,0.12,10.0,32.0,48.0,1.0,2012.0,Mexico,Typica,Washed / Wet,Blue-Green,83.92,272,G0237
+,,1.0,0.0,275.0,70.0,2016.0,Colombia,Caturra,,Green,83.83,276,G0040
+1850.0,,0.0,0.0,275.0,69.0,2015.0,Costa Rica,Caturra,Washed / Wet,Blue-Green,83.83,277,G0048
+1499.9208,0.02,0.0,2.0,175.0,50.0,2011.0,Thailand,,,,83.83,293,G0327
+,0.01,0.0,0.0,1.0,60.0,2011.0,Thailand,,,,83.83,294,G0328
+,0.1,0.0,3.0,300.0,,2010.0,Ethiopia,,,,83.83,295,G0078
+,,1.0,4.0,275.0,70.0,2016.0,Colombia,,Washed / Wet,Green,83.75,300,G0040
+1650.0,0.1,0.0,2.0,3.0,60.0,2015.0,China,Catimor,Washed / Wet,Green,83.75,301,G0024
+1400.0,0.12,0.0,0.0,320.0,60.0,2013.0,Uganda,Bourbon,Natural / Dry,Green,83.75,303,G0341
+1775.0,,0.0,5.0,100.0,70.0,2014.0,Colombia,Caturra,Washed / Wet,Green,83.75,305,G0040
+,,0.0,0.0,12.0,45.359237,2013.0,United States (Hawaii),Hawaiian Kona,Natural / Dry,Bluish-Green,83.75,309,G0347
+,,0.0,0.0,4.0,,,United States (Hawaii),,,,83.75,314,G0347
+1350.0,0.11,0.0,1.0,275.0,69.0,,Costa Rica,,,Blue-Green,83.67,321,G0048
+800.0,0.12,0.0,0.0,1.0,1.0,2014.0,Thailand,,Washed / Wet,Bluish-Green,83.67,322,G0328
+1625.0,0.11,0.0,4.0,100.0,0.90718474,2014.0,Colombia,Caturra,Washed / Wet,,83.67,323,G0042
+1900.0,,0.0,1.0,250.0,70.0,2013.0,Colombia,Caturra,Washed / Wet,Green,83.67,326,G0040
+,,0.0,0.0,3.0,45.359237,,United States (Hawaii),,,,83.67,335,G0347
+,0.11,0.0,4.0,275.0,70.0,2016.0,Colombia,Caturra,Washed / Wet,Green,83.58,338,G0040
+1100.0,0.1,0.0,4.0,3.0,60.0,2015.0,China,Catimor,Washed / Wet,Green,83.58,339,G0024
+1775.0,0.12,0.0,3.0,275.0,70.0,2015.0,Colombia,Caturra,Washed / Wet,Green,83.58,340,G0040
+1850.0,,0.0,7.0,250.0,60.0,2014.0,Ethiopia,Other,Washed / Wet,,83.58,342,G0077
+1775.0,0.11,0.0,3.0,275.0,70.0,2012.0,Colombia,Caturra,Washed / Wet,Green,83.58,348,G0040
+1850.0,,0.0,0.0,245.0,69.0,2015.0,Costa Rica,Caturra,Washed / Wet,Blue-Green,83.5,354,G0048
+1775.0,0.12,0.0,4.0,180.0,70.0,2015.0,Colombia,Caturra,Washed / Wet,Green,83.5,357,G0040
+1400.0,0.13,0.0,21.0,5.0,60.0,2015.0,"Tanzania, United Republic Of",Ruiru 11,Washed / Wet,Green,83.5,358,G0303
+1500.0,0.13,0.0,8.0,200.0,30.0,2015.0,Indonesia,Sumatra,Semi-washed / Semi-pulped,Bluish-Green,83.5,359,G0120
+,,1.0,0.0,275.0,2.0,2014.0,Colombia,,Washed / Wet,,83.5,361,G0034
+1400.0,0.12,0.0,0.0,15.0,1.0,2012.0,Mexico,Pacamara,Washed / Wet,Green,83.5,370,G0181
+1775.0,0.11,0.0,0.0,175.0,70.0,2012.0,Colombia,Caturra,Washed / Wet,Green,83.5,372,G0040
+1402.08,,3.0,12.0,250.0,2.0,2012.0,Guatemala,Bourbon,Washed / Wet,Green,83.5,373,G0097
+,0.01,0.0,0.0,14.0,45.359237,,United States (Hawaii),,,,83.5,374,G0347
+1850.0,0.09,0.0,4.0,275.0,69.0,2016.0,Costa Rica,Caturra,Washed / Wet,Blue-Green,83.42,379,G0048
+1800.0,0.11,0.0,1.0,20.0,1218.0,2015.0,Uganda,SL14,Washed / Wet,Green,83.42,381,G0333
+,0.12,0.0,6.0,300.0,60.0,2014.0,Brazil,Yellow Bourbon,Semi-washed / Semi-pulped,Green,83.42,385,G0002
+,,0.0,2.0,13.0,45.359237,2012.0,United States (Hawaii),Hawaiian Kona,Natural / Dry,Green,83.42,391,G0347
+,0.1,1.0,3.0,250.0,70.0,,Colombia,,,,83.42,393,G0034
+,0.01,0.0,0.0,12.0,60.0,2010.0,United States (Hawaii),,,,83.42,394,G0347
+,0.11,0.0,0.0,4.0,0.45359237,,Thailand,Peaberry,,,83.42,395,G0328
+1050.0,0.09,2.0,4.0,6.0,,,Mexico,,,,83.38,396,G0184
+,,0.0,0.0,130.0,70.0,2016.0,Colombia,Caturra,Washed / Wet,Blue-Green,83.33,398,G0040
+,,1.0,2.0,275.0,70.0,2016.0,Colombia,Caturra,Washed / Wet,Green,83.33,399,G0040
+1300.0,0.12,0.0,3.0,250.0,1.36077711,2014.0,Costa Rica,Caturra,Washed / Wet,Green,83.33,405,G0060
+,0.11,0.0,1.0,12.0,45.359237,2014.0,United States (Hawaii),Hawaiian Kona,Natural / Dry,Bluish-Green,83.33,406,G0345
+,0.1,0.0,4.0,7.0,45.359237,2012.0,United States (Hawaii),Hawaiian Kona,Natural / Dry,Bluish-Green,83.33,412,G0347
+,0.01,0.0,0.0,27.0,45.359237,,United States (Hawaii),,,,83.33,415,G0347
+,,0.0,0.0,25.0,45.359237,,United States (Hawaii),,,,83.33,416,G0347
+1600.0,0.11,0.0,0.0,50.0,50.0,2017.0,Mexico,Typica,Washed / Wet,Blue-Green,83.25,417,G0159
+,0.12,0.0,1.0,150.0,,2015.0,Uganda,SL14,Washed / Wet,Green,83.25,421,G0338
+,0.12,0.0,4.0,300.0,60.0,2016.0,Brazil,,,Green,83.25,422,G0002
+1261.0,0.12,0.0,2.0,11.0,2.0,2015.0,Mexico,Typica,Natural / Dry,Bluish-Green,83.25,424,G0241
+,0.11,0.0,4.0,11.0,45.359237,2012.0,United States (Hawaii),Hawaiian Kona,Natural / Dry,Bluish-Green,83.25,431,G0347
+1775.0,0.11,0.0,0.0,175.0,70.0,2012.0,Colombia,Caturra,Washed / Wet,Green,83.25,437,G0040
+1200.0,0.11,0.0,0.0,3.0,60.0,2015.0,China,Catimor,Washed / Wet,Green,83.17,448,G0024
+1600.0,0.1,0.0,3.0,3.0,60.0,2015.0,China,Catimor,Washed / Wet,Green,83.17,449,G0024
+800.0,0.12,0.0,0.0,1.0,1.0,2014.0,Thailand,,Washed / Wet,Bluish-Green,83.17,454,G0328
+1775.0,,0.0,4.0,232.0,70.0,2014.0,Colombia,Caturra,Washed / Wet,,83.17,456,G0040
+1800.0,0.1,0.0,0.0,84.0,60.0,2014.0,Uganda,SL14,Washed / Wet,Bluish-Green,83.17,457,G0337
+1450.0,0.1,0.0,5.0,275.0,1.0,2013.0,Honduras,Catuai,Natural / Dry,Green,83.17,459,G0115
+,0.11,0.0,0.0,6.0,45.359237,2013.0,United States (Hawaii),Hawaiian Kona,Natural / Dry,Bluish-Green,83.17,462,G0345
+1775.0,0.11,1.0,2.0,275.0,70.0,2012.0,Colombia,Caturra,Washed / Wet,Green,83.17,468,G0040
+1402.08,,0.0,10.0,250.0,2.0,2012.0,Guatemala,Bourbon,Washed / Wet,Green,83.17,474,G0097
+1850.0,0.01,0.0,0.0,300.0,,,Ethiopia,,,,83.17,478,G0078
+,,1.0,5.0,275.0,70.0,2016.0,Colombia,Caturra,Washed / Wet,Green,83.08,480,G0040
+,0.11,0.0,13.0,300.0,60.0,2015.0,Brazil,Mundo Novo,Natural / Dry,Green,83.08,484,G0002
+,0.12,0.0,8.0,16.0,45.359237,2013.0,United States (Hawaii),Hawaiian Kona,Natural / Dry,Bluish-Green,83.08,487,G0345
+,0.1,0.0,0.0,6.0,45.359237,2012.0,United States (Hawaii),Hawaiian Kona,Natural / Dry,Bluish-Green,83.08,489,G0347
+,,1.0,4.0,7.0,45.359237,2012.0,United States (Hawaii),Hawaiian Kona,Natural / Dry,,83.08,491,G0347
+,0.12,0.0,0.0,6.0,45.359237,2012.0,United States (Hawaii),Hawaiian Kona,Washed / Wet,Green,83.08,492,G0347
+1775.0,0.01,0.0,0.0,275.0,70.0,,Colombia,Caturra,,,83.08,493,G0040
+1775.0,0.11,1.0,1.0,120.0,70.0,2013.0,Colombia,Caturra,Washed / Wet,Green,83.0,514,G0040
+1775.0,0.11,1.0,2.0,275.0,70.0,2012.0,Colombia,Caturra,Washed / Wet,Green,83.0,518,G0040
+1200.0,0.11,0.0,7.0,20.0,1.0,2012.0,Mexico,Typica,Semi-washed / Semi-pulped,Green,83.0,520,G0248
+1775.0,0.12,0.0,0.0,121.0,1.0,2011.0,Colombia,Caturra,Washed / Wet,Bluish-Green,83.0,526,G0040
+,0.28,0.0,0.0,1.0,60.0,2011.0,Thailand,,,,83.0,527,G0328
+1450.0,0.08,0.0,1.0,300.0,70.0,,Colombia,,,,83.0,528,G0040
+,,0.0,0.0,23.0,45.359237,,United States (Hawaii),,,,83.0,529,G0347
+,,0.0,1.0,5.0,45.359237,,United States (Hawaii),,,,83.0,530,G0347
+,0.07,0.0,0.0,2.0,,2009.0,Nicaragua,Caturra,,,83.0,532,G0275
+,,0.0,0.0,1.0,0.45359237,,Thailand,,,,83.0,533,G0328
+1500.0,0.11,0.0,1.0,129.0,70.0,2017.0,Colombia,Caturra,Washed / Wet,Green,82.92,536,G0040
+1059.0,0.13,0.0,3.0,11.0,2.0,2015.0,Mexico,Typica,Natural / Dry,Blue-Green,82.92,542,G0241
+1300.0,0.12,2.0,8.0,275.0,2.0,2015.0,Mexico,Bourbon,Washed / Wet,Bluish-Green,82.92,543,G0154
+,0.11,0.0,16.0,300.0,2.0,2014.0,Brazil,Moka Peaberry,Semi-washed / Semi-pulped,Green,82.92,544,G0007
+1650.0,0.12,0.0,0.0,1.0,60.0,2013.0,Uganda,SL14,Washed / Wet,Green,82.92,545,G0338
+1900.0,0.11,0.0,2.0,250.0,70.0,2013.0,Colombia,Caturra,Washed / Wet,Green,82.92,550,G0040
+1248.0,0.1,0.0,4.0,15.0,1.0,2012.0,Mexico,Typica,Natural / Dry,Green,82.92,554,G0222
+,0.1,0.0,0.0,8.0,45.359237,2012.0,United States (Hawaii),Hawaiian Kona,Washed / Wet,Green,82.92,557,G0347
+1450.0,0.15,0.0,0.0,250.0,70.0,2011.0,Colombia,,,,82.92,558,G0040
+,,0.0,0.0,2.0,0.45359237,,Thailand,,,,82.92,559,G0328
+1754.0,0.1,0.0,3.0,27.0,50.0,2017.0,Kenya,SL28,Washed / Wet,Green,82.83,560,G0137
+1900.0,0.11,0.0,0.0,150.0,60.0,2015.0,Rwanda,Bourbon,Washed / Wet,Bluish-Green,82.83,564,G0293
+900.0,0.12,2.0,6.0,300.0,60.0,2015.0,Brazil,Catuai,Natural / Dry,Green,82.83,567,G0005
+1600.0,,0.0,1.0,100.0,24.0,2014.0,Colombia,Other,Washed / Wet,,82.83,568,G0032
+1775.0,0.11,0.0,3.0,125.0,70.0,2013.0,Colombia,Caturra,Washed / Wet,Green,82.83,572,G0040
+1500.0,0.12,0.0,15.0,2.0,1.0,2017.0,Indonesia,Sulawesi,Other,Blue-Green,82.75,584,G0127
+1850.0,0.09,0.0,1.0,250.0,69.0,2016.0,Costa Rica,Caturra,Washed / Wet,Bluish-Green,82.75,588,G0048
+1100.0,0.1,0.0,0.0,3.0,60.0,2015.0,China,Catimor,Natural / Dry,Green,82.75,591,G0024
+1500.0,0.11,0.0,2.0,3.0,60.0,2015.0,China,Catimor,Washed / Wet,Green,82.75,592,G0024
+1775.0,,0.0,2.0,250.0,70.0,2014.0,Colombia,Caturra,Washed / Wet,Blue-Green,82.75,593,G0040
+165.0,0.12,0.0,0.0,275.0,1.0,2014.0,Colombia,Typica,Washed / Wet,Green,82.75,596,G0029
+,0.1,6.0,0.0,10.0,36.2873896,2013.0,United States (Hawaii),Hawaiian Kona,Natural / Dry,Blue-Green,82.75,597,G0345
+,0.1,0.0,0.0,6.0,45.359237,2013.0,United States (Hawaii),Hawaiian Kona,Natural / Dry,Green,82.75,598,G0345
+1775.0,0.11,0.0,3.0,100.0,70.0,2012.0,Colombia,Caturra,Washed / Wet,Green,82.75,604,G0040
+,0.12,0.0,0.0,6.0,45.359237,2012.0,United States (Hawaii),Hawaiian Kona,Washed / Wet,Green,82.75,605,G0347
+,,0.0,2.0,14.0,,,United States (Hawaii),,,,82.75,607,G0347
+,,1.0,9.0,1.0,2.0,2015.0,Colombia,,Washed / Wet,Green,82.67,613,G0034
+,0.12,0.0,9.0,300.0,60.0,2014.0,Brazil,Catuai,Natural / Dry,,82.67,615,G0002
+1296.0,0.11,0.0,0.0,11.0,1.0,2014.0,Mexico,Typica,Natural / Dry,Green,82.67,619,G0241
+1650.0,0.12,0.0,0.0,1.0,60.0,2013.0,Uganda,SL14,Washed / Wet,Green,82.67,620,G0338
+,0.12,0.0,0.0,2.0,1.0,2012.0,Thailand,Other,Washed / Wet,Bluish-Green,82.67,626,G0328
+3850.0,0.11,0.0,0.0,1.0,1.0,2011.0,Colombia,,,Green,82.67,629,G0035
+,0.03,2.0,0.0,37.0,45.359237,,United States (Hawaii),,,,82.67,630,G0347
+1400.0,,0.0,1.0,1.0,1.0,2010.0,Mexico,Blue Mountain,,,82.67,631,G0259
+,0.21,0.0,2.0,270.0,70.0,2009.0,Colombia,,,,82.67,633,G0040
+,,1.0,2.0,300.0,60.0,2016.0,Brazil,,,Green,82.58,638,G0002
+800.0,0.12,0.0,0.0,1.0,1.0,2014.0,Thailand,,Washed / Wet,Green,82.58,640,G0328
+1650.0,0.12,0.0,0.0,1.0,60.0,2013.0,Uganda,SL14,Natural / Dry,Green,82.58,643,G0338
+1775.0,0.11,2.0,2.0,275.0,70.0,2012.0,Colombia,Caturra,Washed / Wet,Green,82.58,652,G0040
+1250.0,0.11,0.0,5.0,2.0,1.0,2017.0,Indonesia,Other,Washed / Wet,Green,82.5,655,G0127
+800.0,0.12,0.0,0.0,1.0,1.0,2014.0,Thailand,,Washed / Wet,Green,82.5,658,G0328
+1100.0,0.12,0.0,5.0,10.0,1.0,2012.0,Mexico,Typica,Washed / Wet,Green,82.5,668,G0170
+1650.0,0.11,0.0,2.0,28.0,1.0,2012.0,Mexico,Typica,Semi-washed / Semi-pulped,,82.5,669,G0169
+1775.0,0.11,1.0,3.0,275.0,70.0,2012.0,Colombia,Caturra,Washed / Wet,Green,82.5,672,G0040
+,0.12,2.0,3.0,7.0,45.359237,2012.0,United States (Hawaii),Hawaiian Kona,Washed / Wet,Green,82.5,673,G0347
+1600.0,0.11,0.0,1.0,43.0,70.0,2016.0,Colombia,Caturra,Washed / Wet,Green,82.42,680,G0040
+1600.0,0.1,0.0,0.0,3.0,60.0,2015.0,China,Catimor,Washed / Wet,Green,82.42,681,G0024
+,0.11,0.0,0.0,300.0,60.0,2016.0,Brazil,,,Green,82.42,682,G0002
+2285.0,0.13,0.0,7.0,10.0,60.0,2015.0,"Tanzania, United Republic Of",Ruiru 11,Washed / Wet,Green,82.42,683,G0308
+1296.0,0.11,0.0,0.0,10.0,1.0,2014.0,Mexico,Typica,Washed / Wet,Green,82.42,686,G0241
+1775.0,0.11,0.0,9.0,250.0,70.0,2013.0,Colombia,Caturra,Washed / Wet,Green,82.42,692,G0040
+1250.0,0.13,0.0,4.0,1.0,1.0,2012.0,Mexico,Bourbon,Washed / Wet,,82.42,700,G0235
+1850.0,0.1,6.0,3.0,100.0,69.0,2015.0,Costa Rica,Caturra,Washed / Wet,Bluish-Green,82.33,710,G0048
+1580.0,0.12,0.0,2.0,3.0,60.0,2015.0,China,Catimor,Pulped natural / honey,Green,82.33,712,G0024
+,0.11,0.0,10.0,300.0,60.0,2015.0,Brazil,Mundo Novo,Natural / Dry,Green,82.33,714,G0002
+1338.0,0.12,0.0,4.0,150.0,1.0,2013.0,Mexico,Mundo Novo,Washed / Wet,Blue-Green,82.25,744,G0197
+,,0.0,1.0,6.0,45.359237,2013.0,United States (Hawaii),Hawaiian Kona,Natural / Dry,Bluish-Green,82.25,745,G0347
+1775.0,0.11,0.0,0.0,100.0,70.0,2012.0,Colombia,Caturra,Washed / Wet,Green,82.25,754,G0040
+,0.22,0.0,2.0,149.0,70.0,,Colombia,,,,82.25,756,G0040
+800.0,0.12,0.0,0.0,1.0,1.0,2014.0,Thailand,,Washed / Wet,Bluish-Green,82.17,763,G0328
+,0.12,0.0,1.0,300.0,60.0,2014.0,Brazil,Mundo Novo,Natural / Dry,Green,82.17,766,G0002
+1300.0,0.15,0.0,3.0,2.0,1.0,2017.0,Indonesia,Bourbon,Washed / Wet,,82.08,778,G0127
+1300.0,,0.0,0.0,275.0,350.0,2015.0,Costa Rica,Caturra,Washed / Wet,Blue-Green,82.08,782,G0047
+1600.0,0.12,0.0,3.0,1.0,60.0,2014.0,"Tanzania, United Republic Of",Other,Washed / Wet,Green,82.08,784,G0317
+13.0,0.11,0.0,2.0,150.0,69.0,2013.0,Costa Rica,Caturra,Washed / Wet,Green,82.08,786,G0048
+,0.11,0.0,0.0,4.0,45.359237,2012.0,United States (Hawaii),Hawaiian Kona,Natural / Dry,Bluish-Green,82.08,787,G0347
+,0.1,0.0,2.0,10.0,45.359237,2012.0,United States (Hawaii),Hawaiian Kona,Washed / Wet,Green,82.08,793,G0347
+1250.0,0.12,0.0,0.0,1.0,2.0,2015.0,Laos,Other,Washed / Wet,Blue-Green,82.0,799,G0145
+800.0,0.11,0.0,0.0,1.0,1.0,2013.0,Thailand,,Washed / Wet,Green,82.0,803,G0328
+1400.0,0.11,0.0,5.0,275.0,69.0,2014.0,Honduras,Caturra,Washed / Wet,Green,82.0,805,G0107
+1900.0,0.11,0.0,1.0,250.0,70.0,2013.0,Colombia,Caturra,Washed / Wet,Green,82.0,806,G0040
+940.0,0.12,0.0,1.0,15.0,1.0,2012.0,Mexico,Typica,Washed / Wet,Green,82.0,809,G0200
+1402.08,,0.0,10.0,250.0,2.0,2012.0,Guatemala,Bourbon,Washed / Wet,Green,82.0,814,G0097
+1775.0,0.07,0.0,2.0,150.0,70.0,,Colombia,Caturra,,,82.0,815,G0040
+1250.0,0.11,0.0,0.0,166.0,30.0,2015.0,Indonesia,Other,Other,Green,81.83,837,G0120
+1425.0,0.11,0.0,7.0,250.0,2.0,2015.0,Mexico,Catuai,Washed / Wet,Green,81.83,842,G0258
+1300.0,0.09,0.0,0.0,275.0,,2015.0,Costa Rica,Caturra,Washed / Wet,Green,81.83,844,G0047
+1300.0,0.11,2.0,6.0,300.0,10.0,2014.0,Indonesia,Typica,Other,,81.83,846,G0123
+1550.0,0.11,0.0,0.0,280.0,2.0,2014.0,Mexico,Typica,Washed / Wet,Green,81.83,850,G0214
+1775.0,,2.0,0.0,50.0,70.0,2013.0,Colombia,Caturra,Washed / Wet,Bluish-Green,81.83,851,G0040
+,,1.0,1.0,19.0,45.359237,2012.0,United States (Hawaii),Hawaiian Kona,Natural / Dry,Bluish-Green,81.83,852,G0347
+,0.02,3.0,12.0,30.0,,,United States (Hawaii),,,,81.83,859,G0347
+1600.0,0.12,0.0,4.0,1.0,60.0,2014.0,"Tanzania, United Republic Of",Other,Washed / Wet,Bluish-Green,81.75,862,G0317
+,0.1,0.0,1.0,1.0,2.2679618500000003,2013.0,Brazil,,Natural / Dry,Bluish-Green,81.75,863,G0004
+1250.0,0.13,0.0,23.0,100.0,1.0,2012.0,Mexico,Mundo Novo,Washed / Wet,Green,81.75,865,G0252
+1650.0,0.12,0.0,1.0,28.0,1.0,2012.0,Mexico,Typica,Washed / Wet,,81.75,868,G0169
+1775.0,0.08,0.0,0.0,275.0,70.0,,Colombia,,,,81.75,870,G0040
+,,0.0,1.0,165.0,70.0,2016.0,Colombia,,,,81.67,877,G0040
+1500.0,0.12,0.0,0.0,20.0,60.0,2014.0,"Tanzania, United Republic Of",Other,Washed / Wet,Green,81.67,879,G0302
+,0.11,0.0,0.0,320.0,4.0,2013.0,Indonesia,Sumatra,Semi-washed / Semi-pulped,Bluish-Green,81.67,882,G0121
+1850.0,0.11,0.0,3.0,275.0,69.0,2013.0,Costa Rica,Caturra,Washed / Wet,Green,81.67,884,G0048
+1650.0,0.13,1.0,13.0,100.0,1.0,2012.0,Mexico,Typica,Washed / Wet,Green,81.67,890,G0257
+,0.1,1.0,1.0,13.0,45.359237,2012.0,United States (Hawaii),Hawaiian Kona,Washed / Wet,Green,81.67,895,G0347
+13.0,0.12,0.0,1.0,250.0,69.0,2015.0,Costa Rica,Caturra,Washed / Wet,Green,81.58,899,G0048
+1600.0,0.11,0.0,0.0,28.0,1.0,2012.0,Mexico,Marigojipe,Natural / Dry,,81.58,906,G0169
+1650.0,0.11,0.0,2.0,28.0,1.0,2012.0,Mexico,Typica,Natural / Dry,,81.58,907,G0169
+1499.9208,0.01,0.0,0.0,12.0,50.0,2011.0,Thailand,,,,81.58,908,G0327
+,0.2,0.0,0.0,1.0,60.0,2011.0,Thailand,,,,81.58,909,G0328
+1600.2,,0.0,1.0,1.0,60.0,,Costa Rica,,,,81.58,910,G0045
+1100.0,0.11,0.0,3.0,550.0,69.0,2017.0,Nicaragua,Caturra,Other,Green,81.5,912,G0273
+1100.0,0.11,0.0,3.0,15.0,1.0,2012.0,Mexico,Typica,Natural / Dry,Green,81.5,929,G0221
+1450.0,0.06,1.0,0.0,250.0,70.0,,Colombia,,,,81.5,933,G0040
+,,0.0,17.0,16.0,,,United States (Hawaii),,,,81.5,934,G0347
+1100.0,0.11,0.0,2.0,300.0,60.0,2015.0,Brazil,Catuai,Natural / Dry,Green,81.42,937,G0005
+1550.0,,1.0,1.0,280.0,2.0,2014.0,Mexico,Typica,Washed / Wet,Green,81.42,943,G0214
+,0.01,0.0,10.0,27.0,,,United States (Hawaii),Peaberry,,,81.42,950,G0347
+,,0.0,0.0,230.0,70.0,2016.0,Colombia,Caturra,Washed / Wet,,81.33,951,G0040
+1130.0,0.12,0.0,0.0,220.0,69.0,2016.0,Mexico,,,Green,81.33,953,G0155
+1100.0,0.11,0.0,14.0,300.0,60.0,2015.0,Brazil,Catuai,Natural / Dry,Green,81.33,954,G0005
+1400.0,0.14,0.0,3.0,2.0,2.0,2014.0,Philippines,Other,Washed / Wet,Green,81.33,957,G0291
+1450.0,0.12,0.0,3.0,275.0,1.0,2014.0,Honduras,Catuai,Washed / Wet,Green,81.33,959,G0115
+1000.0,0.12,0.0,4.0,70.0,1.0,2012.0,Mexico,Typica,Washed / Wet,,81.33,961,G0192
+1200.0,0.09,0.0,7.0,275.0,69.0,2016.0,Nicaragua,,Washed / Wet,Green,81.17,972,G0273
+1300.0,0.11,0.0,0.0,275.0,,2015.0,Costa Rica,Caturra,Washed / Wet,Bluish-Green,81.17,975,G0047
+1200.0,,0.0,4.0,2.0,2.0,2014.0,Philippines,Typica,Natural / Dry,,81.17,978,G0291
+,0.11,0.0,3.0,300.0,1.0,2013.0,Brazil,Catuai,Natural / Dry,Green,81.17,982,G0002
+,0.04,3.0,0.0,4.0,45.359237,,United States (Hawaii),,,,81.17,986,G0347
+,0.11,0.0,1.0,300.0,60.0,2016.0,Ethiopia,,Natural / Dry,,81.08,987,G0082
+1706.88,,0.0,0.0,1.0,2.2679618500000003,2014.0,United States,Pache Comun,Natural / Dry,,81.08,990,G0351
+1500.0,0.13,0.0,0.0,250.0,1.0,2014.0,Costa Rica,Caturra,Washed / Wet,Green,81.08,992,G0060
+1642.0,0.11,0.0,5.0,40.0,1.0,2012.0,Mexico,Typica,Washed / Wet,Green,81.08,996,G0182
+,0.06,0.0,0.0,2.0,45.359237,2012.0,United States (Hawaii),Hawaiian Kona,Washed / Wet,Blue-Green,81.08,998,G0347
+,0.11,0.0,9.0,300.0,59.0,,Brazil,Bourbon,Pulped natural / honey,Green,81.0,999,G0002
+,0.11,0.0,3.0,300.0,59.0,2016.0,Brazil,Yellow Bourbon,Pulped natural / honey,Bluish-Green,81.0,1001,G0002
+1600.0,,0.0,4.0,43.0,70.0,2016.0,Colombia,Caturra,Washed / Wet,Green,81.0,1003,G0040
+1350.0,0.12,0.0,1.0,275.0,,2014.0,Honduras,Caturra,Natural / Dry,Green,81.0,1006,G0115
+,0.12,0.0,0.0,300.0,60.0,2014.0,Brazil,Mundo Novo,Natural / Dry,Green,81.0,1007,G0002
+800.0,,0.0,3.0,2.0,1.0,2012.0,Thailand,,Washed / Wet,Green,81.0,1011,G0328
+,0.1,2.0,5.0,7.0,45.359237,2014.0,United States (Hawaii),Hawaiian Kona,Natural / Dry,Bluish-Green,80.92,1019,G0345
+,,0.0,0.0,3.0,0.45359237,,Thailand,Peaberry,,,80.92,1030,G0328
+,0.1,2.0,0.0,7.0,45.359237,2012.0,United States (Hawaii),Hawaiian Kona,Washed / Wet,Blue-Green,80.83,1036,G0347
+,,0.0,1.0,320.0,60.0,2015.0,Brazil,,Natural / Dry,Green,80.75,1038,G0002
+3825.0,,0.0,2.0,1.0,2.0,2015.0,Myanmar,Catuai,Washed / Wet,Green,80.75,1039,G0267
+1300.0,0.11,0.0,0.0,250.0,1.36077711,2014.0,Costa Rica,Caturra,Washed / Wet,Green,80.75,1046,G0060
+,0.13,0.0,6.0,3.0,0.90718474,2011.0,United States (Hawaii),Arusha,Natural / Dry,Bluish-Green,80.75,1049,G0347
+1350.0,0.13,0.0,1.0,200.0,30.0,2015.0,Indonesia,Mandheling,Semi-washed / Semi-pulped,Blue-Green,80.67,1051,G0120
+185.0,0.11,0.0,4.0,240.0,1.0,2015.0,Costa Rica,Caturra,Washed / Wet,Blue-Green,80.67,1053,G0048
+1200.0,0.12,0.0,4.0,20.0,1.0,2014.0,Mexico,Typica,Washed / Wet,Green,80.67,1055,G0159
+,0.18,0.0,2.0,149.0,70.0,,Colombia,,,,80.67,1060,G0040
+,0.11,0.0,7.0,94.0,60.0,2016.0,Brazil,,,Green,80.58,1061,G0002
+,0.11,0.0,0.0,275.0,69.0,2016.0,Nicaragua,,,Green,80.58,1062,G0273
+1400.0,0.11,0.0,5.0,275.0,69.0,2014.0,Honduras,Caturra,Washed / Wet,Green,80.58,1065,G0107
+,,0.0,0.0,10.0,45.359237,,United States (Hawaii),,,,80.58,1067,G0347
+,,0.0,2.0,149.0,70.0,,Colombia,,,,80.58,1068,G0040
+1250.0,0.11,0.0,3.0,300.0,60.0,2015.0,Brazil,Yellow Bourbon,Semi-washed / Semi-pulped,Green,80.5,1073,G0002
+,0.11,1.0,0.0,10.0,45.359237,2013.0,United States (Hawaii),Hawaiian Kona,Natural / Dry,Green,80.5,1077,G0345
+1450.0,0.15,0.0,1.0,18.0,1.0,2012.0,Mexico,Typica,Washed / Wet,,80.5,1079,G0194
+1700.0,0.17,0.0,14.0,1.0,2.0,2013.0,China,Other,Washed / Wet,Green,80.42,1083,G0021
+1700.0,0.12,0.0,0.0,300.0,60.0,2016.0,Burundi,,,Green,80.33,1087,G0019
+,0.12,0.0,5.0,1.0,60.0,2014.0,"Tanzania, United Republic Of",Other,Washed / Wet,Bluish-Green,80.33,1089,G0312
+,0.12,5.0,7.0,10.0,45.359237,2012.0,United States (Hawaii),Hawaiian Kona,Washed / Wet,Green,80.33,1093,G0347
+,0.1,0.0,1.0,360.0,,2010.0,Ethiopia,,,,80.33,1094,G0078
+995.0,0.11,0.0,1.0,440.0,59.0,2017.0,Brazil,Catuai,Natural / Dry,Green,80.25,1095,G0018
+1600.0,0.1,0.0,2.0,60.0,69.0,2016.0,Mexico,Caturra,Washed / Wet,Green,80.25,1097,G0159
+,0.12,4.0,13.0,2.0,45.359237,2014.0,United States (Hawaii),Hawaiian Kona,Natural / Dry,Green,80.25,1101,G0345
+,0.1,0.0,0.0,1.0,2.0,2012.0,Colombia,Typica,Washed / Wet,Green,80.25,1102,G0036
+1187.5,0.11,0.0,2.0,275.0,2.0,2015.0,Nicaragua,Caturra,Washed / Wet,,80.17,1107,G0273
+1550.0,0.14,1.0,2.0,15.0,1.0,2012.0,Mexico,Typica,Washed / Wet,Green,80.17,1111,G0194
+,0.05,12.0,1.0,22.0,45.359237,,United States (Hawaii),,,,80.17,1114,G0347
+1300.0,0.15,0.0,0.0,13.0,1.0,2012.0,Mexico,Typica,Washed / Wet,,80.08,1121,G0194
+1300.0,0.14,1.0,17.0,10.0,1.0,2012.0,Mexico,Typica,Washed / Wet,Green,80.08,1122,G0174
+1400.0,,0.0,2.0,280.0,2.0,2014.0,Mexico,Typica,Washed / Wet,Green,80.0,1125,G0214
+800.0,,0.0,0.0,2.0,1.0,2012.0,Thailand,,Washed / Wet,Green,80.0,1127,G0328
+1100.0,0.11,0.0,12.0,256.0,1.0,2012.0,Mexico,Other,Washed / Wet,Green,80.0,1129,G0250
+,0.05,0.0,2.0,300.0,,2010.0,Ethiopia,,,,80.0,1130,G0078
+,,0.0,1.0,275.0,2.0,2015.0,Colombia,,Washed / Wet,Green,79.92,1131,G0034
+,0.11,1.0,3.0,12.0,100.0,2014.0,United States (Hawaii),Hawaiian Kona,Natural / Dry,Green,79.92,1132,G0345
+,0.05,3.0,0.0,40.0,45.359237,,United States (Hawaii),,,,79.92,1139,G0347
+,0.12,7.0,10.0,12.0,45.359237,2012.0,United States (Hawaii),Hawaiian Kona,Natural / Dry,Blue-Green,79.83,1144,G0347
+800.0,0.12,0.0,0.0,1.0,1.0,2013.0,Thailand,,Washed / Wet,Green,79.75,1148,G0328
+1100.0,0.1,0.0,4.0,275.0,2.0,2013.0,Costa Rica,Catuai,Washed / Wet,Bluish-Green,79.75,1150,G0060
+1022.0,0.13,0.0,4.0,275.0,1.0,2013.0,Mexico,Bourbon,Washed / Wet,Green,79.75,1152,G0215
+1450.0,0.14,0.0,0.0,12.0,1.0,2012.0,Mexico,Bourbon,Washed / Wet,,79.75,1154,G0194
+800.0,0.12,0.0,0.0,1.0,1.0,2013.0,Thailand,,Washed / Wet,Blue-Green,79.67,1160,G0328
+,,1.0,0.0,5.0,0.45359237,,Thailand,Peaberry,,,79.67,1165,G0328
+1550.0,0.14,0.0,8.0,10.0,1.0,2012.0,Mexico,Typica,Washed / Wet,,79.17,1190,G0194
+1200.0,0.01,0.0,8.0,250.0,,,Mexico,Typica,,,79.17,1192,G0227
+1500.0,0.16,0.0,2.0,13.0,1.0,2012.0,Mexico,Typica,Washed / Wet,,79.08,1195,G0194
+1400.0,,0.0,4.0,280.0,69.0,2012.0,Peru,Typica,Washed / Wet,,79.0,1201,G0288
+1550.0,0.14,3.0,17.0,16.0,1.0,2012.0,Mexico,Typica,Semi-washed / Semi-pulped,Green,79.0,1203,G0194
+1400.0,0.16,0.0,0.0,14.0,1.0,2012.0,Mexico,Typica,Washed / Wet,,78.92,1206,G0194
+1100.0,0.1,0.0,4.0,1.0,1.0,2016.0,Nicaragua,Caturra,Other,Green,78.83,1207,G0273
+,0.12,5.0,8.0,11.0,0.90718474,2013.0,United States (Hawaii),,Natural / Dry,Green,78.75,1208,G0345
+1250.0,0.14,0.0,0.0,35.0,1.0,2012.0,Mexico,Typica,Semi-washed / Semi-pulped,,78.75,1211,G0163
+1850.0,,0.0,5.0,1.0,2.0,2013.0,China,Typica,Washed / Wet,Green,78.67,1213,G0021
+,0.1,1.0,7.0,275.0,69.0,2016.0,Nicaragua,,,Green,78.58,1215,G0273
+,0.11,1.0,1.0,275.0,2.0,2014.0,Nicaragua,,Natural / Dry,Green,78.58,1216,G0273
+,,0.0,0.0,8.0,45.359237,,United States (Hawaii),,,,78.58,1221,G0347
+1600.0,,0.0,0.0,280.0,69.0,2014.0,Mexico,Bourbon,Washed / Wet,Green,78.5,1222,G0214
+1200.0,0.13,1.0,3.0,20.0,1.0,2012.0,Mexico,Caturra,Washed / Wet,Green,78.5,1224,G0179
+,0.12,3.0,4.0,300.0,60.0,2014.0,Brazil,Catuai,Natural / Dry,Green,78.42,1225,G0002
+1500.0,0.14,0.0,0.0,10.0,1.0,2012.0,Mexico,Typica,Washed / Wet,,78.42,1226,G0194
+,0.1,0.0,0.0,5.0,45.359237,2014.0,United States (Hawaii),Hawaiian Kona,Natural / Dry,Bluish-Green,78.33,1227,G0345
+1300.0,0.13,31.0,47.0,100.0,1.0,2012.0,Mexico,Typica,Natural / Dry,Green,78.33,1230,G0238
+,0.11,2.0,8.0,18.0,45.359237,2014.0,United States (Hawaii),Hawaiian Kona,Natural / Dry,Green,78.25,1232,G0345
+,0.11,4.0,31.0,5.0,45.359237,2012.0,United States (Hawaii),Hawaiian Kona,Natural / Dry,Green,78.25,1233,G0347
+1300.0,0.13,0.0,1.0,2.0,1.0,2016.0,Indonesia,Java,Washed / Wet,,78.17,1234,G0127
+,0.12,2.0,3.0,5.0,45.359237,2014.0,United States (Hawaii),Hawaiian Kona,Natural / Dry,Green,78.0,1238,G0345
+,0.11,0.0,2.0,1.0,2.2679618500000003,2014.0,Brazil,,Washed / Wet,,77.83,1248,G0004
+,0.12,1.0,5.0,5.0,45.359237,2013.0,United States (Hawaii),,Natural / Dry,Green,77.58,1251,G0347
+1300.0,0.13,0.0,3.0,23.0,1.0,2012.0,Mexico,Typica,Washed / Wet,Green,77.5,1252,G0253
+1500.0,0.15,4.0,5.0,10.0,1.0,2012.0,Mexico,Typica,Washed / Wet,,77.33,1256,G0194
+,0.12,1.0,5.0,9.0,0.90718474,2013.0,United States (Hawaii),,Natural / Dry,Green,77.25,1258,G0345
+1200.0,,0.0,0.0,250.0,,,Mexico,Typica,,,76.75,1262,G0227
+,,0.0,0.0,2.0,45.359237,2014.0,United States (Hawaii),Hawaiian Kona,Natural / Dry,Green,76.25,1267,G0345
+,,0.0,3.0,6.0,45.359237,2013.0,United States (Hawaii),,Natural / Dry,Bluish-Green,76.17,1268,G0345
+1400.0,0.16,2.0,4.0,11.0,1.0,2012.0,Mexico,Typica,Washed / Wet,,76.17,1269,G0194
+3500.0,0.12,4.0,26.0,15.0,2.0,2011.0,Indonesia,Other,Natural / Dry,,76.17,1270,G0129
+1250.0,0.12,0.0,12.0,20.0,1.0,2012.0,Mexico,Bourbon,Washed / Wet,Green,76.08,1271,G0188
+,0.11,0.0,6.0,440.0,59.0,2017.0,Brazil,,Natural / Dry,Green,75.67,1274,G0018
+1280.0,0.13,23.0,29.0,18.0,1.0,2012.0,Mexico,Typica,Washed / Wet,Bluish-Green,75.17,1280,G0226
+1500.0,0.17,0.0,6.0,14.0,1.0,2012.0,Mexico,Typica,Washed / Wet,,74.92,1282,G0194
+,,1.0,2.0,3.0,45.359237,2014.0,United States (Hawaii),Hawaiian Kona,Natural / Dry,Blue-Green,74.42,1287,G0345
+1140.0,0.14,3.0,11.0,20.0,1.0,2012.0,Mexico,Typica,Washed / Wet,Green,74.33,1289,G0200
+1200.0,0.13,0.0,27.0,100.0,1.0,2012.0,Mexico,Typica,Washed / Wet,,74.0,1290,G0231
+1250.0,0.12,0.0,19.0,20.0,1.0,2012.0,Mexico,Typica,Washed / Wet,Green,73.83,1291,G0173
+,,9.0,17.0,22.0,45.359237,2012.0,United States (Hawaii),Hawaiian Kona,Natural / Dry,,73.67,1292,G0347
+,0.11,0.0,0.0,300.0,60.0,2016.0,Brazil,,,Green,73.5,1293,G0002
+1200.0,,1.0,1.0,280.0,69.0,2014.0,Mexico,Typica,Washed / Wet,,72.92,1295,G0214
+,,0.0,15.0,1.0,2.2679618500000003,2013.0,Colombia,,Natural / Dry,Bluish-Green,72.83,1296,G0036
+,0.11,5.0,9.0,11.0,45.359237,2014.0,United States (Hawaii),Hawaiian Kona,Natural / Dry,Green,72.58,1297,G0345
+1000.0,0.12,0.0,1.0,280.0,2.0,2014.0,Mexico,Typica,Washed / Wet,Green,70.75,1302,G0214
+,0.11,0.0,55.0,305.0,59.0,2017.0,Brazil,,Natural / Dry,Green,70.67,1303,G0018
+1100.0,0.13,1.0,5.0,550.0,69.0,2016.0,Nicaragua,Caturra,Other,Green,63.08,1309,G0273

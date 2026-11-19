@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+.streamlit/secrets.toml
+resultados/streamlit.log
+*.docx
+data/arabica_data_cleaned.csv
+data/merged_data_cleaned.csv
+data/robusta_data_cleaned.csv

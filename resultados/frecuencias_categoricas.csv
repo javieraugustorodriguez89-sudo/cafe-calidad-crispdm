@@ -1,0 +1,68 @@
+variable,categoria,frecuencia
+pais,Guatemala,177
+pais,Mexico,171
+pais,Colombia,109
+pais,Brazil,104
+pais,Taiwan,74
+pais,Honduras,47
+pais,"Tanzania, United Republic Of",33
+pais,Costa Rica,29
+pais,El Salvador,21
+pais,Ethiopia,19
+pais,Kenya,18
+pais,Nicaragua,16
+pais,Uganda,15
+pais,Malawi,11
+pais,Peru,9
+pais,Thailand,8
+pais,Indonesia,8
+pais,Vietnam,7
+pais,United States,7
+pais,Myanmar,7
+pais,Haiti,6
+pais,United States (Puerto Rico),4
+pais,Panama,4
+pais,Philippines,3
+pais,Laos,2
+pais,Papua New Guinea,1
+pais,Ecuador,1
+pais,Burundi,1
+pais,Japan,1
+pais,Zambia,1
+pais,Mauritius,1
+pais,Cote d?Ivoire,1
+pais,No informado,1
+pais,China,1
+pais,India,1
+variedad,Bourbon,212
+variedad,Caturra,177
+variedad,Typica,157
+variedad,No informado,94
+variedad,Other,88
+variedad,Catuai,61
+variedad,Yellow Bourbon,32
+variedad,Mundo Novo,27
+variedad,Pacas,13
+variedad,Gesha,12
+variedad,SL28,11
+variedad,Catimor,8
+variedad,SL14,7
+variedad,SL34,5
+variedad,Pacamara,5
+variedad,Arusha,4
+variedad,Sumatra,1
+variedad,Sumatra Lintong,1
+variedad,Peaberry,1
+variedad,Mandheling,1
+variedad,Ethiopian Heirlooms,1
+variedad,Blue Mountain,1
+beneficio,Washed / Wet,614
+beneficio,Natural / Dry,167
+beneficio,No informado,62
+beneficio,Semi-washed / Semi-pulped,46
+beneficio,Other,19
+beneficio,Pulped natural / honey,11
+color,Green,657
+color,No informado,138
+color,Bluish-Green,69
+color,Blue-Green,55

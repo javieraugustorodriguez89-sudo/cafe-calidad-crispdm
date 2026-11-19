@@ -1,0 +1,39 @@
+{
+  "Lineal": {
+    "preparar__numericas__pca": "passthrough"
+  },
+  "Ridge": {
+    "modelo__alpha": "100",
+    "preparar__numericas__pca": "PCA(n_components=0.95, svd_solver='full')"
+  },
+  "KNN": {
+    "modelo__n_neighbors": "45",
+    "modelo__weights": "distance",
+    "preparar__numericas__pca": "passthrough"
+  },
+  "SVR": {
+    "modelo__C": "1",
+    "modelo__epsilon": "0.1",
+    "preparar__numericas__pca": "PCA(n_components=0.95, svd_solver='full')"
+  },
+  "Arbol": {
+    "modelo__max_depth": "3",
+    "modelo__min_samples_leaf": "10",
+    "preparar__numericas__pca": "passthrough"
+  },
+  "Votacion": {
+    "modelo__weights": "(1, 1, 1)",
+    "preparar__numericas__pca": "passthrough"
+  },
+  "Bagging": {
+    "modelo__max_features": "0.8",
+    "modelo__max_samples": "1.0",
+    "preparar__numericas__pca": "passthrough"
+  },
+  "Boosting": {
+    "modelo__learning_rate": "0.03",
+    "modelo__max_depth": "2",
+    "modelo__n_estimators": "100",
+    "preparar__numericas__pca": "passthrough"
+  }
+}

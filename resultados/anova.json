@@ -1,0 +1,11 @@
+{
+  "diseno": "ANOVA de bloques completos; bloque = partición externa de validación cruzada",
+  "F_modelo": 2.054062448045928,
+  "p_modelo": 0.08305348140361059,
+  "gl_modelo": 7,
+  "gl_error": 28,
+  "MSE": 0.004835961799736768,
+  "Shapiro_residuos_p": 0.37441508058879064,
+  "Levene_p": 0.9930353229439404,
+  "limite": "Los entrenamientos de CV se superponen. P-valores exploratorios, no prueba confirmatoria de superioridad universal."
+}
